@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/JheysonJhair/sistema_ventas.git">
+    <a href="https://github.com/JheysonJhair/app_java_sales-system">
       <img src="public/Logo.png" width="108px" />
     </a>
     <h1>JhairDev - Sistema de Ventas</h1>
@@ -42,7 +42,7 @@ La aplicación cuenta con los siguientes módulos especializados:
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/JheysonJhair/app_java_sales-system
+   git clone https://github.com/JheysonJhair/app_java_sales-system.git
    cd app_java_sales-system
 
 3. **Ejecuta tu entorno de desarrollo para java y abre el proyecto**
